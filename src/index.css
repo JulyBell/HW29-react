@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+a {
+  text-decoration: none; 
+  color: green;}
+
+a:hover {
+  text-decoration: none; 
+  color: black;
+}
+
+.navbar{
+  justify-content: space-evenly;
+}
+
+div .App{
+  padding-left: 2%;
+}
